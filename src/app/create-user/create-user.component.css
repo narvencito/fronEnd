@@ -1,0 +1,19 @@
+.clear{
+  padding-top: 15px;
+}
+
+.margen1{
+
+  margin-left: 35%;
+}
+.margen{
+  margin-right: 15px;
+ }
+ .required{
+   color: red;
+   font-weight: bolder;
+ }
+ .main-form{
+   margin: 0 auto;
+   width: 70%;
+ }
